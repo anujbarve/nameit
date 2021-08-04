@@ -2,7 +2,7 @@
   "name": "nameit",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://anujbarve.github.io/nameit/",
+  "homepage": "https://anujbarve.github.io/nameit/",
   "dependencies": {
     "@rstacruz/startup-name-generator": "0.3.0",
     "@testing-library/jest-dom": "^5.14.1",
@@ -19,7 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
